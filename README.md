@@ -5,3 +5,4 @@ explicitly programming them. In this repository I want to explore  algorithm wit
 
 #### 1) Linear Regression 
 #### 2) Decision Tree Regression 
+We'll build our own Decision Tree Algorithm to predict House Price and compare with the decision tree from Scikit-learn.
